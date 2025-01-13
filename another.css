@@ -1,0 +1,142 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+
+.account{
+   /* margin: 20px;  */
+   /* margin: 200px 10px; */
+   /* margin: 50px 0px 200px 300px; */
+   /* margin-top: 10px;
+   margin-bottom: 20px;
+   margin-left: 30px; */
+   /* padding: 50px; */
+   /* padding: 20px 300px; */
+   /* padding: 10px 20px 30px 40px; */
+   /* padding-top: 20px;
+   padding-bottom: 40px;
+   padding-left: 60px;
+   padding-right: 80px; */
+}
+.pink{
+    background-color: pink;
+    padding: 100px;
+    /* padding: 200px 0px 200px 0px; */
+}
+.white{
+    background-color: white;
+    padding: 30px;
+    width: 650px;
+    margin-left: auto;
+    margin-right: auto;
+    /* width: 400px;
+    margin-right: auto;
+    margin-left: auto; */
+}
+
+.wajid{
+    margin-bottom: 20px;
+}
+.account{
+    background-color: rgb(207, 204, 255);
+    padding: 15px 50px;
+    color: blue;
+    border: none;
+    border-bottom: 3px solid blue;
+}
+.personal{
+    background-color: rgb(207, 204, 255);
+    color: gray;     
+    padding: 15px 50px;
+    border: none;
+}
+
+
+
+
+.payment{
+    background-color: rgb(207, 204, 255);
+    color: gray;     
+    padding: 15px 50px;
+    border: none;
+}
+
+.enter{
+    margin: 30px 0px 30px 0px;
+    color: gray;
+}
+
+.firstname{
+    padding: 10px;
+    border: none;
+    border-bottom: 3px solid gray;
+    width: 300px;
+    margin-bottom: 10px;
+}
+.lastname{
+    padding: 10px;
+    border: none;
+    border-bottom: 3px solid gray;
+    width: 300px;
+    margin-bottom: 10px;
+
+}
+
+.email{
+    padding: 10px;
+    border: none;
+    border-bottom: 3px solid gray;
+    width: 97%;
+    margin-bottom: 10px;
+
+}
+
+.password{
+    padding: 10px;
+    border: none;
+    border-bottom: 3px solid gray;
+    width: 300px;
+    margin-bottom: 10px;
+ 
+}
+
+.confirmpassword{
+    padding: 10px;
+    border: none;
+    border-bottom: 3px solid gray;
+    width: 300px;
+    margin-bottom: 10px;
+
+}
+
+.phonenumber{
+    padding: 10px;
+    border: none;
+    border-bottom: 3px solid gray;
+    width: 97%;
+    margin-bottom: 10px;
+
+}
+
+.next{
+    background-color: blue;
+    color: white;
+    padding: 20px 40px;
+    border: none;
+    border-radius: 50px;
+}
+.mainbutton{
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+}
+.mainnextbutton{
+    display: flex;
+    justify-content: center;
+}
+.maininputbox{
+    display: flex;
+    gap: 5px;
+    flex-wrap: wrap;
+}
